@@ -1,4 +1,5 @@
 # Foshan_University_2019_AI_Projict
+# 这个项目是线稿自动上色项目
 test(3)是ui界面
 
 Gan_Coloring是构建模型训练代码
